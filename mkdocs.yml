@@ -1,6 +1,12 @@
 site_name: HemAutomation.info
 nav:
     - Home: index.md
+    - Specimen: specimen.md
     - About: about.md
 theme:
   name: 'material'
+site_author: Cider author - Christopher Simpkins
+site_description: "Cideo description - A clean, responsive theme for static documentation websites that are generated with MkDocs"
+copyright: "Copyright information possible with a <a href='https://github.com/.../blob/master/LICENSE.md'>MIT license</a>"
+markdown_extensions:
+  - admonition
